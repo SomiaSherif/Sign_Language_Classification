@@ -6,7 +6,7 @@ The project involves collecting a dataset of sign language gestures, preprocessi
 
 The performance of the model will be evaluated using standard metrics such as accuracy, precision, recall, and F1 score. The final model will be deployed in a web application that can recognize sign language gestures in real-time using a webcam or a video file.
 
-The project implemented using Python, with the TensorFlow and Keras libraries for deep learning. The code will be published on GitHub as an open-source project, along with the dataset and pre-trained models for others to use and build upon.
+The project implemented using Python, with the TensorFlow and Keras libraries for deep learning. 
 
 
 **Dataset**: https://www.kaggle.com/datasets/ayuraj/asl-dataset
